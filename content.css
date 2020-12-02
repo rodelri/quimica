@@ -146,3 +146,8 @@ li{list-style-position:outside}
 .iDevice_inner .feedback-wrong{background:#FDFDDB}
 .iDevice_inner .iDevice_answer-feedback{background:none;border:none;padding:0;margin:0}
 .TrueFalseIdevice .feedback{margin-top:1.5em}
+
+table {
+max-width: 500px;
+min-width: 400px;
+}
