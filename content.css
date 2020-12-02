@@ -148,6 +148,6 @@ li{list-style-position:outside}
 .TrueFalseIdevice .feedback{margin-top:1.5em}
 
 table {
-max-width: 500px;
-min-width: 400px;
+max-width: 500px;important!
+background-color: red;
 }
