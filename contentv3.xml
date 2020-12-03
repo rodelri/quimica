@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="formulación in orgánica"></unicode>
+  <unicode value="formulación inorgánica"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addPagination"></string>
@@ -83,7 +83,7 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"></unicode>
+  <unicode value="2020FORM"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
   <int value="40"></int>
   <string role="key" value="_nextNodeId"></string>
@@ -175,7 +175,7 @@ text through the text editing buttons associated with the field."></unicode>
                  <string role="key" value="_storageName"></string>
                  <string value="img0.png"></string>
                  <string role="key" value="_userName"></string>
-                 <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\img0.png"></string>
+                 <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\img0.png"></string>
                  <string role="key" value="checksum"></string>
                  <string value="54d1282d83c2b554894e985781f4d82f"></string>
                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -765,7 +765,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="img0.1.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\img0.1.png"></string>
+                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\img0.1.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="039f4b357ed3a86dbef93584ef9f77e3"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -817,7 +817,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="img1.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\img1.png"></string>
+                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\img1.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="f5ee3e1654f745ca68e196f6ce262bd3"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -869,7 +869,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="img2.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\img2.png"></string>
+                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\img2.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="818447403257410e2967f6fce26f701e"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1077,7 +1077,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="image015.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image015.png"></string>
+                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image015.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="bf17c7c1a8d33731f5d4937ee4df0bb4"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1574,7 +1574,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="img3.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\img3.png"></string>
+                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\img3.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="a5bb38aeaf092109a87cb34f7dbdecda"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5458,7 +5458,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image019.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image019.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image019.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="cd091be7d820907209cc1c442cce6868"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5510,7 +5510,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image021.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image021.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image021.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="a9868311e5d42dd13360d82445501d96"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5562,7 +5562,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image023.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image023.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image023.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="0500a61e6601257c80b61172f67b6c13"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5614,7 +5614,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image025.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image025.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image025.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="a24dccdadcb0859f955bc4569977cafb"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6380,7 +6380,7 @@ text through the text editing buttons associated with the field."></unicode>
                        <string role="key" value="_storageName"></string>
                        <string value="image021.png"></string>
                        <string role="key" value="_userName"></string>
-                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image021.png"></string>
+                       <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image021.png"></string>
                        <string role="key" value="checksum"></string>
                        <string value="a9868311e5d42dd13360d82445501d96"></string>
                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -18238,14 +18238,30 @@ text through the text editing buttons associated with the field."></unicode>
 &lt;/ul&gt;
 &lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;span&gt; &lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;&lt;span&gt;Ácidos meta-.&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Cuando solo se añade una molécula de agua al óxido, se coloca el prefijo meta-, para así distinguirlos de los ácidos orto-, que no llevan este prefijo por ser los más estables, como ocurre con el&lt;u&gt; &lt;strong&gt;fósforo,arsénico, antimonio, silicio y boro.&lt;/strong&gt;&lt;/u&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;&lt;span&gt;En resumen, En la nomenclatura clásica los prefijos ORTO- y META- indican, respectivamente, mayor y menor contenido en agua de la molécula, aunque el número de oxidación del elemento central coincida. La asignación del prefijo META– se asigna al oxoácido simple. Y el prefijo ORTO-, en los grupos 13,14,15, al polihidratado (molécula de  ácido + H&lt;/span&gt;&lt;/strong&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;strong&gt;O)&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;&lt;span&gt;Para los elementos, B, Si, P, As, Sb , se suelen poner los prefijos . En el resto se suele omitir o solo se considera el ORTO- a efectos de nombrar la fórmula.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;font-weight: 400;&quot;&gt;&lt;strong&gt;&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Hagamos un &lt;strong&gt;resumen&lt;/strong&gt; usando el &lt;strong&gt;P&lt;/strong&gt; como referencia (valencias &lt;strong&gt;+3&lt;/strong&gt; y &lt;strong&gt;+5&lt;/strong&gt;) y que podemos aplicar de igual manera a &lt;strong&gt;As, Sb, B y Si:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;1º ÁCIDOS META-:&lt;/u&gt;&lt;/strong&gt; este caso es el que ya sabemos, es decir, al óxido del no metal (anhídrido) le sumamos una molécula de H&lt;sub&gt;2&lt;/sub&gt;O, solo que a la hora de nombrarlo usamos el prefijo META- para distinguirlo de las otras 2 combinaciones:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;HBO&lt;/span&gt;2:&lt;span&gt; &lt;/span&gt;&lt;span&gt;Ácido metabórico.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;H&lt;/span&gt;3&lt;span&gt;BO&lt;/span&gt;3:&lt;span&gt; &lt;/span&gt;&lt;span&gt;Ácido ortobórico ó simplemente Ácido bórico. H&lt;/span&gt;2&lt;span&gt;SiO&lt;/span&gt;3:&lt;span&gt; &lt;/span&gt;&lt;span&gt;Ácido metasilícico&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;H&lt;/span&gt;4&lt;span&gt;SiO&lt;/span&gt;4:&lt;span&gt; &lt;/span&gt;&lt;span&gt;Ácido ortosilícico ó simplemente Ácido silícico. HPO&lt;/span&gt;3:&lt;span&gt; &lt;/span&gt;&lt;span&gt;Ácido metafosfórico.&lt;/span&gt;&lt;/li&gt;
-&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;strong&gt;PO&lt;/strong&gt;&lt;strong&gt;4:&lt;span&gt; &lt;/span&gt;&lt;/strong&gt;Ácido ortofosfórico ó simplemente Ácido&lt;span&gt; &lt;/span&gt;&lt;strong&gt;fosfórico&lt;/strong&gt;. (HPO3&lt;span&gt; &lt;/span&gt;+ H2O)&lt;/li&gt;
+&lt;li&gt;P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;3 &lt;/sub&gt;+ H&lt;sub&gt;2&lt;/sub&gt;O = H&lt;sub&gt;2&lt;/sub&gt;P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;4&lt;/sub&gt; = &lt;strong&gt;HPO&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt; (ácido metafosforoso)&lt;/li&gt;
+&lt;li&gt;P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;5 &lt;/sub&gt;+ H&lt;sub&gt;2&lt;/sub&gt;O = H&lt;sub&gt;2&lt;/sub&gt;P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt; = &lt;strong&gt;HPO&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/strong&gt;     (ácido metafosfórico)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;2º ÁCIDOS ORTO-&lt;/u&gt;&lt;/strong&gt;&lt;strong&gt;&lt;u&gt;:&lt;/u&gt;&lt;/strong&gt; Partiendo del ácido meta, le sumamos un nueva molécula de  H&lt;sub&gt;2&lt;/sub&gt;O:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(ácido metafosforoso) HPO&lt;sub&gt;2&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt;O = &lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt;PO&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/strong&gt; ácido (orto)fosforoso&lt;/li&gt;
+&lt;li&gt;(ácido metafosfórico)  HPO&lt;sub&gt;3&lt;/sub&gt; + H&lt;sub&gt;2&lt;/sub&gt;O = &lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;3&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt;PO&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;4&lt;/sub&gt;&lt;/strong&gt;&lt;sub&gt; &lt;/sub&gt;ácido (orto)fosfórico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recuerda que hemos puesto el prefijo ORTO- entre paréntesis porque para &lt;strong&gt;P, As, Sb, Si y B &lt;/strong&gt;se puede poner el prefijo o no, son una excepción, de hecho normalmente no se pone.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;3º ÁCIDOS DI- o PIRO-:&lt;/u&gt;&lt;/strong&gt; Empezamos diciendo que actualmente se utiliza el prefijo DI-. Son el resultado de sumar 2 moléculas del ácido más estable (que para el &lt;strong&gt;P, As, Sb, Si y B &lt;/strong&gt;el ácido más estable es el ORTO-), y al resultado (sin simplificar) le restamos 1 molécula de H&lt;sub&gt;2&lt;/sub&gt;O.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;H&lt;sub&gt;3&lt;/sub&gt;PO&lt;sub&gt;3&lt;/sub&gt; + H&lt;sub&gt;3&lt;/sub&gt;PO&lt;sub&gt;3&lt;/sub&gt; = H&lt;sub&gt;6&lt;/sub&gt;P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;6&lt;/sub&gt; - H&lt;sub&gt;2&lt;/sub&gt;O = &lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;4&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt;O&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;5&lt;/sub&gt;&lt;/strong&gt;           ácido difosforoso&lt;/li&gt;
+&lt;li&gt;H&lt;sub&gt;3&lt;/sub&gt;PO&lt;sub&gt;4&lt;/sub&gt; + H&lt;sub&gt;3&lt;/sub&gt;PO&lt;sub&gt;4&lt;/sub&gt; = H&lt;sub&gt;6&lt;/sub&gt;P&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;8&lt;/sub&gt; - H&lt;sub&gt;2&lt;/sub&gt;O = &lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;4&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt;&lt;strong&gt;O&lt;/strong&gt;&lt;strong&gt;&lt;sub&gt;7&lt;/sub&gt;&lt;/strong&gt;           ácido difosfórico&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;La asignación del prefijo META– se asigna al oxoácido simple. Y el prefijo ORTO-, en los grupos 13,14,15, al polihidratado (molécula de  ácido + H&lt;/strong&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;strong&gt;O)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Para los elementos, B, Si, P, As, Sb , se suelen poner los prefijos . En el resto se suele omitir o solo se considera el ORTO- a efectos de nombrar la fórmula.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HBO2: Ácido metabórico.&lt;/li&gt;
+&lt;li&gt;H3BO3: Ácido ortobórico ó simplemente Ácido bórico. H2SiO3: Ácido metasilícico&lt;/li&gt;
+&lt;li&gt;H4SiO4: Ácido ortosilícico ó simplemente Ácido silícico. HPO3: Ácido metafosfórico.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;H&lt;/strong&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;strong&gt;PO&lt;/strong&gt;&lt;strong&gt;4: &lt;/strong&gt;Ácido ortofosfórico ó simplemente Ácido &lt;strong&gt;fosfórico&lt;/strong&gt;. (HPO3 + H2O)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p style=&quot;font-weight: 400;&quot;&gt; &lt;/p&gt;
 &lt;table width=&quot;727&quot; class=&quot;exe-table&quot;&gt;
@@ -18556,7 +18572,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image030.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image030.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image030.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="93c323b962c2909281703edd4cd94e6a"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -18608,7 +18624,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image032.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image032.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image032.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="005e1c55bd620a37ed0d232992457269"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -21002,7 +21018,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image034.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image034.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image034.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="f7da39a4e223a69dadae376a17c6ecae"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -21054,7 +21070,7 @@ text through the text editing buttons associated with the field."></unicode>
                     <string role="key" value="_storageName"></string>
                     <string value="image034.png"></string>
                     <string role="key" value="_userName"></string>
-                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmp4vfgrv\\image034.png"></string>
+                    <string value="c:\\users\\robert~1.del\\appdata\\local\\temp\\tmpdxtwcw\\image034.png"></string>
                     <string role="key" value="checksum"></string>
                     <string value="f7da39a4e223a69dadae376a17c6ecae"></string>
                     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -22608,7 +22624,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="68"></reference>
+  <reference key="37"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -22639,7 +22655,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="formulación in orgánica"></unicode>
+    <unicode value="formulación inorgánica"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -22926,7 +22942,7 @@ Departamento de Ciencias Naturales - 4ºESO Física y Química"></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="formulaci\xc3\xb3n in org\xc3\xa1nica"></string>
+           <string value="formulaci\xc3\xb3n inorg\xc3\xa1nica"></string>
           </dictionary>
          </instance>
         </list>
@@ -23433,7 +23449,7 @@ Departamento de Ciencias Naturales - 4ºESO Física y Química"></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="formulaci\xc3\xb3n in org\xc3\xa1nica"></string>
+           <string value="formulaci\xc3\xb3n inorg\xc3\xa1nica"></string>
           </dictionary>
          </instance>
         </list>
@@ -23807,7 +23823,7 @@ Departamento de Ciencias Naturales - 4ºESO Física y Química"></unicode>
   <string role="key" value="scowwebsite"></string>
   <bool value="0"></bool>
   <string role="key" value="style"></string>
-  <unicode value="FPD-MEDU-1"></unicode>
+  <unicode value="default"></unicode>
   <string role="key" value="sugaractivityname"></string>
   <string value=""></string>
   <string role="key" value="sugarservicename"></string>
