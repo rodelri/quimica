@@ -1,86 +1,298 @@
-/*
-Copyright University of Auckland 2004
-Copyright 2004-2007 eXe Project, New Zealand Tertiary Education Commission
-Created by Brent Simpson, brent@exelearning.org
-
-Modified by Ignacio Gros for eXeLearning.net
-See Help - eXe Tutorial for more info on how to modify this style for your needs.
-*/
-body{background:#DBDAD2}
-#content{background:#E0DFD8 url(_default_side_bg.gif) repeat-y;width:100%;position:relative;padding-bottom:21px;min-width:380px;border:2px solid #E5E4E0;border-radius:5px}
-#main-wrapper{padding:10px 20px 0 250px}
-#main{width:100%}
-#header,#emptyHeader{border-top:none;background:#D9D9CE;padding-right:220px}
-#nodeDecoration{padding:0;margin:0;background:none;border:none}
-#nodeTitle{padding:.1em 0 .6em 0;border-bottom:2px solid #E5E4E0}
-#siteFooter{padding-left:250px}
-/* Navigation */
-#skipNav{text-align:center}
-#skipNav a{background:#706F61}
-#siteNav{width:230px;float:left;padding-right:20px}
-#siteNav,#siteNav ul{border-color:#E5E4E0}
-#siteNav ul,#siteNav li{margin:0;padding:0;list-style:none}
-#siteNav a{display:block;padding:4px 0 4px 15px;color:#4D4D4D;border-bottom:1px solid #FFF;border-right:2px solid #E5E4E0}
-#siteNav a:hover,#siteNav a:focus{background-color:#C7C5B9;color:#222}
-* html #siteNav a{display:inline-block;width:100%} /* IE6 */
-#siteNav .main-node{font-weight:bold;font-variant:small-caps;letter-spacing:1px;font-size:1.1em}
-#siteNav ul ul a{padding-left:30px;font-size:.95em}
-#siteNav .active,#siteNav .active:hover,#siteNav .active:focus{color:#fff;background:#706F61 url(_default_current_page.gif) no-repeat 5px 50%}
-#siteNav ul ul .active,#siteNav ul ul .active:hover,#siteNav ul ul .active:focus{background-position:20px 50%}
-#siteNav ul ul ul .active,#siteNav ul ul ul .active:hover,#siteNav ul ul ul .active:focus{background-position:35px 50%}
-#siteNav .other-section{display:none}
-#siteNav ul ul ul a{padding-left:45px}
-/* Pagination */
-.pagination{border-top:2px solid #E5E4E0;padding-top:20px;text-align:right}
-.pagination .sep{display:none}
-.pagination a{padding:0;color:#B34700;margin-left:20px}
-.pagination a:hover,.pagination a:focus{color:#E65C00}
-#topPagination{position:absolute;top:-2px;width:100%;right:20px}
-#topPagination .pagination{border:none}
-#bottomPagination{padding:0 20px 0 250px;clear:both}
-#bottomPagination .page-counter{margin-left:20px;margin-right:0}
-/* Autoclear */
-#content:after{content:".";display:block;clear:both;visibility:hidden;line-height:0;height:0} 
-#content{display:inline-block}
-html[xmlns] #content{display:block}
-* html #content{height: 1%;overflow:visible}
-
-/* No menu */
-.no-nav #main-wrapper,.no-nav #bottomPagination,.no-nav #siteFooter{padding-left:20px}
-.no-nav #content{background-image:none}
-
-#exe-client-search-form{margin-top:10px}
-#exe-client-search-text{border-color:#568d14}
-#exe-client-search-submit{border-color:#568d14;background:#568d14;color:#fff}
-
-/* IE6 */
-* html #content{width:99%;margin:0 auto}
-* html #main{width:auto}
-* html #siteNav a{width:213px}
-* html #siteNav ul ul a{width:198px}
-* html #siteNav ul ul ul a{width:183px}
-
-/* Responsive design */
-@media all and (max-width: 980px) {
-	body{padding:0}
-	#content{border:none;background-position:-30px 0}
-	#main-wrapper,#siteFooter,#bottomPagination{padding-left:220px}
-	#siteNav{width:200px}
+/* MAIN CONTENT STYLES */
+#content {
 }
-@media all and (max-width: 780px) {
-	#header,#emptyHeader{padding-right:20px}
-	#siteNav .main-node{font-weight:normal;font-variant:normal;letter-spacing:0;font-size:1em}
-	#main-wrapper,.no-nav #main-wrapper{padding:10px}
-	#siteNav{width:100%;float:none;padding-right:0}
-	#content{background-image:none}
-	#siteFooter,.no-nav #siteFooter{padding:0 10px}
-	.pagination{font-weight:bold;font-size:1.1em}
-	#topPagination{position:relative;top:auto;width:100%;right:auto;padding:0}
-	#topPagination .pagination{padding:0;text-align:center;background:#706F61;border-bottom:1px solid #fff}
-	#topPagination .prev,#topPagination .next,#topPagination .page-counter{display:none}
-	#bottomPagination,.no-nav #bottomPagination{position:relative;padding:0 10px 15px 10px}
-	#bottomPagination .page-counter{position:absolute;width:50%;left:25%;text-align:center;margin:0;font-weight:normal}
-	#bottomPagination .prev{position:absolute;left:10px;margin-left:0}
-	#nav-toggler a,#nav-toggler a:focus{display:inline-block;padding:4px;width:80%;color:#fff;font-variant:small-caps;letter-spacing:1px;outline:none;text-decoration:none}
-	#exe-client-search-form{text-align:center}
+
+#main-wrapper{
+	margin-left: 285px;
+	margin-top: 0px;
+}
+
+#main{
+}
+
+#main #nodeDecoration {
+	padding-top: 0px;
+}
+
+/* ITE elements */
+#siteNav {
+	width: 250px;
+	float: left;
+	margin-top: 0px;
+	text-align:left;
+	position:fixed;
+	font-family: Helvetica, sans-serif;
+	background-color: rgba(4,64,133,0.5);
+	border-radius: 10px;
+	padding: 10px;
+	margin-right: 1em;
+}
+
+#siteNav ul,#siteNav li{
+	margin:2px 0 2px 0;
+	padding:0;
+	list-style:none;
+}
+
+#siteNav a {
+	display: block;
+	padding: 4px 0 4px 20px;
+	color: #044085;
+	background-color: #DEEDFA;
+	text-decoration: none;
+	border-radius: 1em;
+}
+
+#siteNav a:hover {
+	color: #044085;
+	background-color:#C3DCF7;
+	font-weight: bold;
+}
+
+#siteNav #active .active {
+	background-color: #C3DCF7;
+	color: #044085;
+	background-image:url(active_bg.gif);
+	background-position: 2px 4px;
+	background-repeat:no-repeat;
+	font-weight: bold;
+}
+#siteNav a{
+
+}
+
+/* Hide from IE5-mac. Only IE-win sees this. Fixes the peek-a-boo bug!!! */
+* html #siteNav {
+	margin-right: 10px;
+}
+
+#siteNav ul ul a{
+	display: block;
+	border: 0 !important;
+	margin-left: 0.5em;
+	padding: 4px 0 4px 20px;
+}
+#siteNav ul ul ul a{
+	display: block;
+	border: 0 !important;
+	margin-left: 1em;
+	padding: 4px 0 4px 20px;
+}
+#siteNav ul ul ul ul a{
+	display: block;
+	border: 0 !important;
+	margin-left: 1.5em;
+	padding: 4px 0 4px 20px;
+}
+
+#siteNav .other-section{
+	display:none; /* Remove if you want all levels to be displayed */
+}
+
+.pagination{
+	text-align:right;
+}
+
+.pagination .prev{
+	color: #044085;
+	background-color: #DEEDFA;
+	padding: 4px 4px 4px 18px;
+	font-weight: bold;
+	border-radius: 1em 0 0 1em;
+}
+.pagination .prev:hover{
+	color: #044085;
+	background-color:#C3DCF7;
+	text-decoration: none;
+}
+.pagination .next{
+	color: #044085;
+	background-color: #DEEDFA;
+	padding: 4px 18px 4px 4px;
+	font-weight: bold;
+	border-radius: 0 1em 1em 0;
+}
+.pagination .next:hover{
+	color: #044085;
+	background-color:#C3DCF7;
+	text-decoration: none;
+}
+
+/* Invisible content (visible for screen reader users) */
+#topPagination{
+	position:absolute;
+	overflow:hidden;
+	clip:rect(0,0,0,0);
+	height:0;
+}
+
+#bottomPagination{
+    padding:0 20px 20px 0;
+}
+
+#bottomPagination .page-counter{
+    margin-left:20px;
+}
+
+/* Hide/Show/Skip navigation */
+#nav-toggler {
+	position: relative;
+	z-index:999;
+}
+#nav-toggler a {
+	position: fixed;
+	top:1em; 
+	right:1em;
+}
+#nav-toggler {
+	margin:0px 0px -1em;
+	float:right;
+	top:0px;
+	left:0px;
+	position: relative;
+	z-index:999;
+}
+#nav-toggler a,#skipNav a{
+	padding:4px 7px;
+	border-radius:5px;
+	width: 30px;
+	height: 20px;
+	color: rgba(255, 255, 255, 0);
+	border-radius: 0.5em;
+	background-color: #C3DCF7;
+	box-shadow: 0px 0px 10px 1px rgba(0, 90, 138, 0.3);
+	background: url("icono-menu.png") no-repeat 12px 7px #C3DCF7;
+	position: fixed;top:1em; right:1em;
+}
+#nav-toggler a:hover,#nav-toggler a:focus{
+	background-color:#C3DCF7;
+	color: transparent;
+	text-decoration:none
+	}
+#skipNav{
+	z-index:100px;
+	padding-top:10px;
+	text-align:center;
+	width: 10em;
+}
+
+
+.no-nav #main-wrapper {margin: 0px;}
+
+#exe-client-search-form{text-align:left}
+#exe-client-search-text{border-color:#c3dcf7}
+#exe-client-search-submit{border-color:#c3dcf7;background:#c3dcf7}
+
+@media screen and (min-width: 701px) and (max-width: 1015px) {
+	/* Fullsreen mode */
+	body{
+	}
+	#content{
+	}
+	/* Horizontal navigation */
+	#main-wrapper{
+		width:100%;
+		margin-left:0px;
+	}
+	#siteNav .current-page-parent {
+		background-color: #C3DCF7;
+		color: #044085;
+		background-image:url(active_bg.gif);
+		background-position: 2px 4px;
+		background-repeat:no-repeat;
+		font-weight: bold;
+		border-radius: 1em;
+	}
+	#siteNav  li  li {
+		margin-left:1em;
+		width: 12.5em;
+	}
+	#siteNav  ul li li a, #siteNav  ul li li li a {
+		margin-left: 0em;
+	}
+	#siteNav li ul ul {
+		margin:-2.5em 0 0 12.5em;
+		padding-left: 0em;
+	}
+	#siteNav {
+		z-index:999;
+		position:relative;
+		background-color: rgba(4,64,133,0.5);
+		border-radius: 10px;
+		width:100%;
+		list-style:none;
+		padding:0;
+		line-height:1.2em;
+	}
+	#siteNav ul {
+		float:left;
+		width:100%;
+		padding: 10px;
+	}
+	#siteNav ul ul {
+		background-color: rgba(4,64,133,0.5);
+		border-radius: 10px;
+		padding-left: 0em;
+	}
+	#siteNav a {
+		display:block;
+		padding:0.4em 1.2em;
+	}
+	#siteNav li {
+		float:left;
+		margin-left:0.5em;
+	}
+	#siteNav li ul {
+		position:absolute;
+		left:-999em;
+		height:auto;
+		width:14em;
+	}
+	#siteNav li:hover ul ul,#siteNav li:hover ul ul ul,#siteNav li.sfhover ul ul,#siteNav li.sfhover ul ul ul {
+		left:-999em
+	}
+	#siteNav li:hover ul,#siteNav li li:hover ul,#siteNav li li li:hover ul,#siteNav li.sfhover ul,#siteNav li li.sfhover ul,#siteNav li li li.sfhover ul {
+		left:auto;
+		display:block;
+	}
+	#toggle-nav{
+		display:none;
+	}
+	#exe-client-search-form{
+		text-align:center;
+		position:relative;
+		top:1.5em;
+	}
+}
+
+@media all and (max-width: 700px) {
+
+	#content .exe-col {
+		float:none;
+		width:100%;
+		padding:0;
+	}
+	table {
+		max-width:100%;
+	}
+	#siteNav {
+		float: none;
+		display: block;
+		clear: both;
+		padding: 0px;
+		position: fixed;
+		margin-left: auto;
+		margin-right: auto;
+		width: 200px;
+		background-color: rgba(4,64,133,0.5);
+		border-radius: 10px;
+		padding: 10px;
+		z-index:99;
+	}
+	body {
+		font-size: 0.9em;
+	}
+	#main-wrapper {
+		margin-left: 0px;
+	}
 }

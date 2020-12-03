@@ -1,12 +1,13 @@
 <?xml version="1.0"?>
 <theme>
-	<name>Default</name>
+	<name>FPD-MEDU</name>
 	<version>2019</version>
 	<compatibility>2.4</compatibility>
-	<author>eXeLearning.org</author>
-	<author-url>http://www.exelearning.org</author-url>	
-	<description>See content.css and nav.css for details.</description>
-	<extra-head><![CDATA[<meta name="viewport" content="width=device-width, initial-scale=1" />
-	]]></extra-head>
-	<extra-body><![CDATA[<script type="text/javascript" src="_default_js.js"></script>]]></extra-body>	
+	<author>José Ramón Jiménez Reyes</author>
+	<author-url>http://www.exelearning.net</author-url>	
+	<description>Estilo realizado por José Ramón Jiménez Reyes para el proyecto TodoFP del Ministerio de Educación en el que se elaboraban materiales de Ciclos Formativos de Formación Profesional.</description>
+	<license>Creative Commons by-sa</license>
+	<license-url>http://creativecommons.org/licenses/by-sa/3.0/</license-url>
+	<extra-head><![CDATA[<meta name="viewport" content="width=device-width, initial-scale=1" />]]></extra-head>
+	<extra-body><![CDATA[<script type="text/javascript" src="_fpd_js.js"></script>]]></extra-body>
 </theme>
