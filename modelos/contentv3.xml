@@ -11,7 +11,7 @@
   <string role="key" value="_addSearchBox"></string>
   <bool value="0"></bool>
   <string role="key" value="_author"></string>
-  <unicode value=""></unicode>
+  <unicode value="ROBERTO DEL RÍO"></unicode>
   <string role="key" value="_backgroundImg"></string>
   <unicode value=""></unicode>
   <string role="key" value="_contextMode"></string>
@@ -160,163 +160,163 @@ completed. Default text will be entered if there are no changes to this field.
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;BaO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;peróxido bárico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;peróxido bárico&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;amoníaco&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;NH3&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;NH3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ba(OH)2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;hidróxido bárico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;hidróxido bárico&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;salfumán&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;HCl&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;HCl&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;SeO3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;anhidrido selénico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;anhídrido selénico&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;cloruro de aluminio&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;AlCl3&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;AlCl3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ca(OH)2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;hidróxido de calcio&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;hidróxido de calcio&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido de titanio(II)&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;Ti(O2)&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;Ti(O2)&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;BH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;SUSTITUCIÓN&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;borano&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;borano&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;cloruro férrico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;FeCl3&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;FeCl3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;H2S&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;ácido sulfhídrico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;ácido sulfhídrico&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;hidruro plúmbico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;PbH4&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;PbH4&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;AlCl3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;cloruro alumínico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;cloruro alumínico&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;anhídrido sulfuroso&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;SO2&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;SO2&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;O7Br2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;dibromuro de heptaoxígeno&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;dibromuro de heptaoxígeno&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;tetrahidruro de estaño&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;SnH4&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;SnH4&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;FeO&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;     &lt;u&gt;óxido de hierro(II)&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt; &lt;u&gt;óxido de hierro(II)&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;sosa caústica&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;     &lt;u&gt;NaOH&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt; &lt;u&gt;NaOH&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;NaCl&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;     &lt;u&gt;sal común&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt; &lt;u&gt;sal común&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;anhídrido brómico&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;     &lt;u&gt;Br2O5&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt; &lt;u&gt;Br2O5&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;TiO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;óxido titánico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;óxido titánico&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;Óxido crómico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;Cr2O3&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;Cr2O3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Pt(OH)4&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;hidróxido de platino(IV)&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;hidróxido de platino(IV)&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;telururo de hidrógeno&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;H2Te&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;H2Te&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;CuH&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;     &lt;u&gt;hidruro cuproso&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt; &lt;u&gt;hidruro cuproso&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;hidruro cobaltoso&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;     &lt;u&gt;CoH2&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt; &lt;u&gt;CoH2&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;IF7&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;heptafluoruro de iodo&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;heptafluoruro de iodo&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;óxido de nitrógeno(III)&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;Ni2O3&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;N2O3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;CO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;anhidrido carbónico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;anhídrido carbónico&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;metano&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;CH4&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;CH4&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;FeCl2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;cloruro ferroso&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;cloruro ferroso&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido de bario&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;BaO2&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;BaO2&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Cs2O2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;peróxido césico&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;peróxido de cesio&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;hidróxido argéntico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;AgOH&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;AgOH&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ti2(O2)3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;peróxido titanioso&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;peróxido titanioso&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;anhídrido carbónico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;CO2&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;CO2&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;CaBr2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;bromuro de calcio&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;bromuro de calcio&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;ozono&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;O3&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;O3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;AlH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;SISTEMÁTICA&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;trihidruro de aluminio&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;trihidruro de aluminio&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;tetracloruro de carbono&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;CCl4&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;CCl4&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;NH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;amoníaco&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;amoníaco&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido niqueloso&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;NiO2&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;NiO2&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;SeO3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;óxido de selenio(VI)&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;óxido de selenio(VI)&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;trióxido de selenio&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;SeO3&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;SeO3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Mn2O3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;     &lt;u&gt;trióxido de dimanganeso&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt; &lt;u&gt;trióxido de dimanganeso&lt;/u&gt; &lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;agua oxigenada&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;     &lt;u&gt;H2O2&lt;/u&gt;     &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt; &lt;u&gt;H2O2&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;"></unicode>
@@ -349,163 +349,163 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;BaO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;peróxido bárico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;peróxido bárico&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;amoníaco&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;NH3&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;NH3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ba(OH)2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;hidróxido bárico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;hidróxido bárico&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;salfumán&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;HCl&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;HCl&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;SeO3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;anhidrido selénico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;anhídrido selénico&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;cloruro de aluminio&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;AlCl3&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;AlCl3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ca(OH)2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;hidróxido de calcio&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;hidróxido de calcio&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido de titanio(II)&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;Ti(O2)&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;Ti(O2)&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;BH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;SUSTITUCIÓN&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;borano&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;borano&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;cloruro férrico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;FeCl3&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;FeCl3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;H2S&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;ácido sulfhídrico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;ácido sulfhídrico&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;hidruro plúmbico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;PbH4&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;PbH4&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;AlCl3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;cloruro alumínico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;cloruro alumínico&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;anhídrido sulfuroso&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;SO2&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;SO2&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;O7Br2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;dibromuro de heptaoxígeno&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;dibromuro de heptaoxígeno&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;tetrahidruro de estaño&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;SnH4&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;SnH4&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;FeO&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;    &lt;u&gt;óxido de hierro(II)&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;&lt;u&gt;óxido de hierro(II)&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;sosa caústica&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;    &lt;u&gt;NaOH&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;&lt;u&gt;NaOH&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;NaCl&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;    &lt;u&gt;sal común&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;&lt;u&gt;sal común&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;anhídrido brómico&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;    &lt;u&gt;Br2O5&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;&lt;u&gt;Br2O5&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;TiO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;óxido titánico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;óxido titánico&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;Óxido crómico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;Cr2O3&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;Cr2O3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Pt(OH)4&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;hidróxido de platino(IV)&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;hidróxido de platino(IV)&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;telururo de hidrógeno&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;H2Te&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;H2Te&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;CuH&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;    &lt;u&gt;hidruro cuproso&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;&lt;u&gt;hidruro cuproso&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;hidruro cobaltoso&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;    &lt;u&gt;CoH2&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;&lt;u&gt;CoH2&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;IF7&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;heptafluoruro de iodo&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;heptafluoruro de iodo&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;óxido de nitrógeno(III)&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;Ni2O3&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;N2O3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;CO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;anhidrido carbónico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;anhídrido carbónico&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;metano&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;CH4&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;CH4&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;FeCl2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;cloruro ferroso&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;cloruro ferroso&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido de bario&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;BaO2&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;BaO2&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Cs2O2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;peróxido césico&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;peróxido de cesio&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;hidróxido argéntico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;AgOH&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;AgOH&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ti2(O2)3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;peróxido titanioso&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;peróxido titanioso&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;anhídrido carbónico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;CO2&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;CO2&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;CaBr2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;bromuro de calcio&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;bromuro de calcio&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;ozono&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;O3&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;O3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;AlH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;SISTEMÁTICA&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;trihidruro de aluminio&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;trihidruro de aluminio&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;tetracloruro de carbono&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;CCl4&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;CCl4&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;NH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;amoníaco&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;amoníaco&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido niqueloso&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;NiO2&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;NiO2&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;SeO3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;óxido de selenio(VI)&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;óxido de selenio(VI)&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;trióxido de selenio&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;SeO3&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;SeO3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Mn2O3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    &lt;u&gt;trióxido de dimanganeso&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;&lt;u&gt;trióxido de dimanganeso&lt;/u&gt;&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;agua oxigenada&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    &lt;u&gt;H2O2&lt;/u&gt;    &lt;/td&gt;
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;&lt;u&gt;H2O2&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;"></unicode>
@@ -540,347 +540,347 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;BaO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="peróxido bárico"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;amoníaco&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="NH3"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ba(OH)2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="hidróxido bárico"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;salfumán&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="HCl"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;SeO3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
-            <unicode value="anhidrido selénico"></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
+            <unicode value="anhídrido selénico"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;cloruro de aluminio&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="AlCl3"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ca(OH)2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="hidróxido de calcio"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido de titanio(II)&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="Ti(O2)"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;BH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;SUSTITUCIÓN&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="borano"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;cloruro férrico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="FeCl3"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;H2S&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="ácido sulfhídrico"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;hidruro plúmbico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="PbH4"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;AlCl3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="cloruro alumínico"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;anhídrido sulfuroso&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="SO2"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;O7Br2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="dibromuro de heptaoxígeno"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;tetrahidruro de estaño&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="SnH4"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;FeO&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="óxido de hierro(II)"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;sosa caústica&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="NaOH"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;NaCl&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="sal común"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;anhídrido brómico&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="Br2O5"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;TiO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="óxido titánico"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;Óxido crómico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="Cr2O3"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Pt(OH)4&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="hidróxido de platino(IV)"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;telururo de hidrógeno&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="H2Te"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 20px;&quot;&gt;
 &lt;td style=&quot;height: 20px; width: 68px;&quot;&gt;CuH&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 20px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="hidruro cuproso"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 20px; width: 212px;&quot;&gt;hidruro cobaltoso&lt;/td&gt;
-&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 20px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="CoH2"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;IF7&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="heptafluoruro de iodo"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;óxido de nitrógeno(III)&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
-            <unicode value="Ni2O3"></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
+            <unicode value="N2O3"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;CO2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
-            <unicode value="anhidrido carbónico"></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
+            <unicode value="anhídrido carbónico"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;metano&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="CH4"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;FeCl2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="cloruro ferroso"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido de bario&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="BaO2"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Cs2O2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
-            <unicode value="peróxido césico"></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
+            <unicode value="peróxido de cesio"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;hidróxido argéntico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="AgOH"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Ti2(O2)3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;TRADICIONAL&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="peróxido titanioso"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;anhídrido carbónico&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="CO2"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;CaBr2&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="bromuro de calcio"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;ozono&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="O3"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;AlH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;SISTEMÁTICA&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="trihidruro de aluminio"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;tetracloruro de carbono&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="CCl4"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;NH3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="amoníaco"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;peróxido niqueloso&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="NiO2"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;SeO3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="óxido de selenio(VI)"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;trióxido de selenio&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="SeO3"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr style=&quot;height: 23px;&quot;&gt;
 &lt;td style=&quot;height: 23px; width: 68px;&quot;&gt;Mn2O3&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 124px;&quot;&gt;PREF. MULT.&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 220.8px;&quot;&gt;"></unicode>
             <unicode value="trióxido de dimanganeso"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;td style=&quot;height: 23px; width: 212px;&quot;&gt;agua oxigenada&lt;/td&gt;
-&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;    "></unicode>
+&lt;td style=&quot;height: 23px; width: 56.8px;&quot;&gt;"></unicode>
             <unicode value="H2O2"></unicode>
            </tuple>
            <tuple>
-            <unicode value="    &lt;/td&gt;
+            <unicode value="&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;"></unicode>
@@ -1009,7 +1009,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
     <string role="key" value="coverage"></string>
     <unicode value=""></unicode>
     <string role="key" value="creator"></string>
-    <unicode value=""></unicode>
+    <unicode value="ROBERTO DEL RÍO"></unicode>
     <string role="key" value="date"></string>
     <unicode value=""></unicode>
     <string role="key" value="description"></string>
@@ -1190,12 +1190,151 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
      </dictionary>
     </instance>
     <string role="key" value="lifeCycle"></string>
-    <none></none>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="7">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2021-02-01T19:50:48.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="8">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:ROBERTO DEL R\xc3\x8dO EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="9">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOMv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
     <string role="key" value="metaMetadata"></string>
     <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
      <dictionary>
       <string role="key" value="contribute"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <reference key="7"></reference>
+         <string role="key" value="entity"></string>
+         <list>
+          <reference key="8"></reference>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <reference key="9"></reference>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list></list>
       <string role="key" value="language"></string>
@@ -1418,12 +1557,151 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
      </dictionary>
     </instance>
     <string role="key" value="lifeCycle"></string>
-    <none></none>
+    <instance class="exe.engine.lom.lomsubs.lifeCycleSub">
+     <dictionary>
+      <string role="key" value="contribute"></string>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="10">
+          <dictionary>
+           <string role="key" value="dateTime"></string>
+           <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
+            <dictionary>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="dateTime"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="2021-02-01T19:50:48.00+01:00"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="description"></string>
+           <instance class="exe.engine.lom.lomsubs.LanguageStringSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list>
+              <instance class="exe.engine.lom.lomsubs.LangStringSub">
+               <dictionary>
+                <string role="key" value="language"></string>
+                <string value="es"></string>
+                <string role="key" value="valueOf_"></string>
+                <string value="Fecha de creaci\xc3\xb3n de los metadatos"></string>
+               </dictionary>
+              </instance>
+             </list>
+            </dictionary>
+           </instance>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="uniqueElementName"></string>
+           <none></none>
+           <string role="key" value="valueOf_"></string>
+           <none></none>
+          </dictionary>
+         </instance>
+         <string role="key" value="entity"></string>
+         <list>
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="11">
+           <dictionary>
+            <string role="key" value="extensiontype_"></string>
+            <none></none>
+            <string role="key" value="valueOf_"></string>
+            <string value="BEGIN:VCARD VERSION:3.0 FN:ROBERTO DEL R\xc3\x8dO EMAIL;TYPE=INTERNET: ORG: END:VCARD"></string>
+           </dictionary>
+          </instance>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="12">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="string"></string>
+             <list></list>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="source"></string>
+             <string role="key" value="valueOf_"></string>
+             <string value="LOM-ESv1.0"></string>
+            </dictionary>
+           </instance>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="author"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
+      <string role="key" value="status"></string>
+      <none></none>
+      <string role="key" value="uniqueElementName"></string>
+      <none></none>
+      <string role="key" value="version"></string>
+      <none></none>
+     </dictionary>
+    </instance>
     <string role="key" value="metaMetadata"></string>
     <instance class="exe.engine.lom.lomsubs.metaMetadataSub">
      <dictionary>
       <string role="key" value="contribute"></string>
-      <list></list>
+      <list>
+       <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
+        <dictionary>
+         <string role="key" value="date"></string>
+         <reference key="10"></reference>
+         <string role="key" value="entity"></string>
+         <list>
+          <reference key="11"></reference>
+         </list>
+         <string role="key" value="role"></string>
+         <instance class="exe.engine.lom.lomsubs.roleSub">
+          <dictionary>
+           <string role="key" value="extensiontype_"></string>
+           <none></none>
+           <string role="key" value="source"></string>
+           <reference key="12"></reference>
+           <string role="key" value="uniqueElementName"></string>
+           <string value="role"></string>
+           <string role="key" value="value"></string>
+           <instance class="exe.engine.lom.lomsubs.roleValueSub">
+            <dictionary>
+             <string role="key" value="extensiontype_"></string>
+             <none></none>
+             <string role="key" value="source"></string>
+             <none></none>
+             <string role="key" value="uniqueElementName"></string>
+             <string value="value"></string>
+             <string role="key" value="value"></string>
+             <none></none>
+             <string role="key" value="valueOf_"></string>
+             <string value="creator"></string>
+            </dictionary>
+           </instance>
+          </dictionary>
+         </instance>
+        </dictionary>
+       </instance>
+      </list>
       <string role="key" value="identifier"></string>
       <list></list>
       <string role="key" value="language"></string>
