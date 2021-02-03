@@ -69,7 +69,7 @@
   <string role="key" value="_intendedEndUserRoleType"></string>
   <unicode value=""></unicode>
   <string role="key" value="_isChanged"></string>
-  <bool value="0"></bool>
+  <bool value="1"></bool>
   <string role="key" value="_isTemplate"></string>
   <bool value="0"></bool>
   <string role="key" value="_lang"></string>
@@ -1016,7 +1016,7 @@ completed. Default text will be entered if there are no changes to this field.
           <string role="key" value="nextImageId"></string>
           <int value="0"></int>
           <string role="key" value="parentNode"></string>
-          <none></none>
+          <reference key="3"></reference>
          </dictionary>
         </instance>
         <string role="key" value="_author"></string>
@@ -1054,7 +1054,7 @@ completed. Default text will be entered if there are no changes to this field.
 &lt;td style=&quot;width: 80px;&quot;&gt;IF7&lt;/td&gt;
 &lt;td style=&quot;width: 123px;&quot;&gt;PREF. MULT.&lt;/td&gt;
 &lt;td style=&quot;width: 206px;&quot;&gt; &lt;u&gt;heptafluoruro de yodo&lt;/u&gt; &lt;/td&gt;
-&lt;td style=&quot;width: 165px;&quot;&gt;óxido crómico&lt;/td&gt;
+&lt;td style=&quot;width: 165px;&quot;&gt;óxido de cromo(III)&lt;/td&gt;
 &lt;td style=&quot;width: 70px;&quot;&gt; &lt;u&gt;Cr2O3&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1138,8 +1138,8 @@ completed. Default text will be entered if there are no changes to this field.
 &lt;td style=&quot;width: 80px;&quot;&gt;CuH&lt;/td&gt;
 &lt;td style=&quot;width: 123px;&quot;&gt;TRADICIONAL&lt;/td&gt;
 &lt;td style=&quot;width: 206px;&quot;&gt; &lt;u&gt;hidruro cuproso&lt;/u&gt; &lt;/td&gt;
-&lt;td style=&quot;width: 165px;&quot;&gt;ácido hipocloroso&lt;/td&gt;
-&lt;td style=&quot;width: 70px;&quot;&gt; &lt;u&gt;HClO&lt;/u&gt; &lt;/td&gt;
+&lt;td style=&quot;width: 165px;&quot;&gt;óxido cromoso&lt;/td&gt;
+&lt;td style=&quot;width: 70px;&quot;&gt; &lt;u&gt;CrO&lt;/u&gt; &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot;width: 80px;&quot;&gt;HgO&lt;/td&gt;
@@ -1243,7 +1243,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;td style=&quot;width: 80px;&quot;&gt;IF7&lt;/td&gt;
 &lt;td style=&quot;width: 123px;&quot;&gt;PREF. MULT.&lt;/td&gt;
 &lt;td style=&quot;width: 206px;&quot;&gt;&lt;u&gt;heptafluoruro de yodo&lt;/u&gt;&lt;/td&gt;
-&lt;td style=&quot;width: 165px;&quot;&gt;óxido crómico&lt;/td&gt;
+&lt;td style=&quot;width: 165px;&quot;&gt;óxido de cromo(III)&lt;/td&gt;
 &lt;td style=&quot;width: 70px;&quot;&gt;&lt;u&gt;Cr2O3&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -1327,8 +1327,8 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
 &lt;td style=&quot;width: 80px;&quot;&gt;CuH&lt;/td&gt;
 &lt;td style=&quot;width: 123px;&quot;&gt;TRADICIONAL&lt;/td&gt;
 &lt;td style=&quot;width: 206px;&quot;&gt;&lt;u&gt;hidruro cuproso&lt;/u&gt;&lt;/td&gt;
-&lt;td style=&quot;width: 165px;&quot;&gt;ácido hipocloroso&lt;/td&gt;
-&lt;td style=&quot;width: 70px;&quot;&gt;&lt;u&gt;HClO&lt;/u&gt;&lt;/td&gt;
+&lt;td style=&quot;width: 165px;&quot;&gt;óxido cromoso&lt;/td&gt;
+&lt;td style=&quot;width: 70px;&quot;&gt;&lt;u&gt;CrO&lt;/u&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot;width: 80px;&quot;&gt;HgO&lt;/td&gt;
@@ -1403,7 +1403,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
           <string role="key" value="nextImageId"></string>
           <int value="0"></int>
           <string role="key" value="parentNode"></string>
-          <none></none>
+          <reference key="3"></reference>
           <string role="key" value="parts"></string>
           <list>
            <tuple>
@@ -1462,7 +1462,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            </tuple>
            <tuple>
             <unicode value="&lt;/td&gt;
-&lt;td style=&quot;width: 165px;&quot;&gt;óxido crómico&lt;/td&gt;
+&lt;td style=&quot;width: 165px;&quot;&gt;óxido de cromo(III)&lt;/td&gt;
 &lt;td style=&quot;width: 70px;&quot;&gt;"></unicode>
             <unicode value="Cr2O3"></unicode>
            </tuple>
@@ -1642,9 +1642,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            </tuple>
            <tuple>
             <unicode value="&lt;/td&gt;
-&lt;td style=&quot;width: 165px;&quot;&gt;ácido hipocloroso&lt;/td&gt;
+&lt;td style=&quot;width: 165px;&quot;&gt;óxido cromoso&lt;/td&gt;
 &lt;td style=&quot;width: 70px;&quot;&gt;"></unicode>
-            <unicode value="HClO"></unicode>
+            <unicode value="CrO"></unicode>
            </tuple>
            <tuple>
             <unicode value="&lt;/td&gt;
@@ -1814,7 +1814,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
           <string role="key" value="nextImageId"></string>
           <int value="0"></int>
           <string role="key" value="parentNode"></string>
-          <none></none>
+          <reference key="3"></reference>
          </dictionary>
         </instance>
         <string role="key" value="icon"></string>
