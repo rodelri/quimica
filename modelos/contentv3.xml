@@ -83,15 +83,15 @@
    <unicode value="Unidad"></unicode>
   </list>
   <string role="key" value="_name"></string>
-  <unicode value="gg"></unicode>
+  <unicode value="modelopruebas2020_2021"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="11"></int>
+  <int value="13"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="5"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
-   <instance class="exe.engine.node.Node" reference="15">
+   <instance class="exe.engine.node.Node" reference="19">
     <dictionary>
      <string role="key" value="_title"></string>
      <unicode value="REPASO FORMULACIÓN"></unicode>
@@ -115,7 +115,7 @@
      <list></list>
      <string role="key" value="children"></string>
      <list>
-      <instance class="exe.engine.node.Node" reference="4">
+      <instance class="exe.engine.node.Node" reference="6">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="MODELOS PRUEBAS"></unicode>
@@ -124,7 +124,7 @@
          <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="2">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="PRUEBA EVALUATIVA MODELO 3 (HIDRUROS, ÓXIDOS, PERÓXIDOS, SALES, HIDRÓXIDOS)"></unicode>
+           <unicode value="PRUEBA EVALUATIVA MODELO 4 Y 5  (HIDRUROS, ÓXIDOS, PERÓXIDOS, SALES, HIDRÓXIDOS)"></unicode>
            <string role="key" value="instructionsForLearners"></string>
            <instance class="exe.engine.field.TextAreaField" reference="3">
             <dictionary>
@@ -132,6 +132,890 @@
              <int value="104"></int>
              <string role="key" value="_idevice"></string>
              <reference key="2"></reference>
+             <string role="key" value="_instruc"></string>
+             <unicode value="Provide instruction on how the cloze activity should be 
+completed. Default text will be entered if there are no changes to this field.
+"></unicode>
+             <string role="key" value="_name"></string>
+             <unicode value="Instructions"></unicode>
+             <string role="key" value="anchor_names"></string>
+             <list></list>
+             <string role="key" value="anchors_linked_from_fields"></string>
+             <dictionary></dictionary>
+             <string role="key" value="class_"></string>
+             <string value="block instructions"></string>
+             <string role="key" value="content_w_resourcePaths"></string>
+             <unicode content="true" value="&lt;p&gt;&lt;span&gt;Completa la tabla formulando y nombrando según la nomenclatura indicada:&lt;/span&gt;&lt;/p&gt;"></unicode>
+             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+             <int value="4"></int>
+             <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+             <int value="2"></int>
+             <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+             <int value="3"></int>
+             <string role="key" value="htmlTag"></string>
+             <string value="section"></string>
+             <string role="key" value="images"></string>
+             <instance class="exe.engine.galleryidevice.GalleryImages">
+              <dictionary>
+               <string role="key" value=".listitems"></string>
+               <list></list>
+               <string role="key" value="idevice"></string>
+               <reference key="3"></reference>
+              </dictionary>
+             </instance>
+             <string role="key" value="intlinks_to_anchors"></string>
+             <dictionary></dictionary>
+             <string role="key" value="nextImageId"></string>
+             <int value="0"></int>
+             <string role="key" value="parentNode"></string>
+             <none></none>
+            </dictionary>
+           </instance>
+           <string role="key" value="_author"></string>
+           <unicode value="University of Auckland"></unicode>
+           <string role="key" value="_content"></string>
+           <instance class="exe.engine.field.ClozeField" reference="4">
+            <dictionary>
+             <string role="key" value="_checkCapsInstruc"></string>
+             <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
+             <string role="key" value="_encodedContent"></string>
+             <unicode value="&lt;p&gt;&lt;google-sheets-html-origin&gt;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;
+&lt;/google-sheets-html-origin&gt;&lt;/p&gt;
+&lt;table xmlns=&quot;http://www.w3.org/1999/xhtml&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;79&quot;&gt;&lt;/col&gt;&lt;col width=&quot;120&quot;&gt;&lt;/col&gt;&lt;col width=&quot;234&quot;&gt;&lt;/col&gt;&lt;col width=&quot;190&quot;&gt;&lt;/col&gt;&lt;col width=&quot;80&quot;&gt;&lt;/col&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2s=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;H2S&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cido=&quot;None&quot; sulfh=&quot;&quot; drico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;ácido sulfhídrico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tetracloruro=&quot;None&quot; de=&quot;None&quot; carbono=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;tetracloruro de carbono&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ccl4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;CCl4&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ca=&quot;&quot; oh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Ca(OH)2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dihidr=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; calcio=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;dihidróxido de Calcio&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; titanio=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido de titanio(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ti2=&quot;&quot; o2=&quot;&quot; 3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;Ti2(O2)3&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; carbonoso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;anhídrido carbonoso&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; de=&quot;None&quot; bario=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro de bario&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bah2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;BaH2&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; di=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; carbono=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;dióxido de carbono&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cido=&quot;None&quot; selenh=&quot;&quot; drico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;ácido selenhídrico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2se=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;H2Se&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; carb=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;anhídrido carbónico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; hiposelenioso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido hiposelenioso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;SeO&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cuh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CuH&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; cuproso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;hidruro cuproso&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; cromoso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido cromoso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cro=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;CrO&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; fecl2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;FeCl2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dicloruro=&quot;None&quot; de=&quot;None&quot; hierro=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;dicloruro de hierro&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bromuro=&quot;None&quot; cuproso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;bromuro cuproso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cubr=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;CuBr&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; feo=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;FeO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; hierro=&quot;&quot; ii=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;óxido de hierro(II)&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; sosa=&quot;None&quot; ca=&quot;&quot; stica=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;sosa caústica&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; naoh=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;NaOH&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2o2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;H2O2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nombre=&quot;None&quot; com=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; agua=&quot;None&quot; oxigenada=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;agua oxigenada&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; niqu=&quot;&quot; lico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido niquélico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ni2=&quot;&quot; o2=&quot;&quot; 3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;Ni2(O2)3&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hgo=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;HgO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; mercurio=&quot;&quot; ii=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;óxido de mercurio(II)&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; br=&quot;&quot; mico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido brómico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; br2o5=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;Br2O5&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; i2o5=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;I2O5&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; i=&quot;&quot; dico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;anhídrido iódico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; bario=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido de bario&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bao2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;BaO2&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; if7=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;IF7&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; heptafluoruro=&quot;None&quot; de=&quot;None&quot; iodo=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;heptafluoruro de iodo&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; cromo=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido de cromo(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cr2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;Cr2O3&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ki=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;KI&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ioduro=&quot;None&quot; pot=&quot;&quot; sico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;ioduro potásico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; sulfuroso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido sulfuroso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; so2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;SO2&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; koh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;KOH&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; pot=&quot;&quot; sico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;hidróxido potásico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; salfum=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;salfumán&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hcl=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;HCl&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; li2o2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Li2O2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; l=&quot;&quot; tico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;peróxido lítico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; arg=&quot;&quot; ntico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidróxido argéntico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; agoh=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;AgOH&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; mn2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Mn2O3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tri=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; dimanganeso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;trióxido de dimanganeso&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; niqueloso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido niqueloso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nio2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;NiO2&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; mn2o7=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Mn2O7&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; permang=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;anhídrido permangánico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; pl=&quot;&quot; mbico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro plúmbico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pbh4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;PbH4&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; o7br2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;O7Br2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dibromuro=&quot;None&quot; de=&quot;None&quot; heptax=&quot;&quot; geno=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;dibromuro de heptaxígeno&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; est=&quot;&quot; nnico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro estánnico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; snh4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;SnH4&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ph3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;PH3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; sustituci=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;SUSTITUCIÓN&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; fosfano=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;fosfano&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; nitr=&quot;&quot; geno=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido de nitrógeno(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;N2O3&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pt=&quot;&quot; oh=&quot;&quot; 4=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Pt(OH)4&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; platino=&quot;&quot; iv=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;hidróxido de Platino(IV)&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; telururo=&quot;None&quot; de=&quot;None&quot; hidr=&quot;&quot; geno=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;telururo de hidrógeno&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2te=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;H2Te&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;SeO3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; sel=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;anhídrido selénico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cloruro=&quot;None&quot; de=&quot;None&quot; aluminio=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;cloruro de aluminio&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; alcl3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;AlCl3&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;SeO3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; selenio=&quot;&quot; vi=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;óxido de selenio(VI)&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tri=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; selenio=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;trióxido de selenio&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;SeO3&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tio2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;TiO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; tit=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt; &lt;u&gt;óxido titánico&lt;/u&gt; &lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; azano=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;azano&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nh3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt; &lt;u&gt;NH3&lt;/u&gt; &lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;"></unicode>
+             <string role="key" value="_id"></string>
+             <int value="105"></int>
+             <string role="key" value="_idevice"></string>
+             <reference key="2"></reference>
+             <string role="key" value="_instantMarkingInstruc"></string>
+             <unicode value="&lt;p&gt;If this option is set, each word will be marked as the 
+learner types it rather than all the words being marked the end of the 
+exercise.&lt;/p&gt;"></unicode>
+             <string role="key" value="_instruc"></string>
+             <unicode value="&lt;p&gt;Enter the text for the cloze activity in to the cloze field 
+by either pasting text from another source or by typing text directly into the 
+field.&lt;/p&gt;&lt;p&gt; To select words to hide, double click on the word to select it and 
+click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possible answer can be defined enclosing them with pipes (|). I.e.: |dog|cat|bird|&lt;/p&gt;"></unicode>
+             <string role="key" value="_name"></string>
+             <unicode value="Cloze"></unicode>
+             <string role="key" value="_strictMarkingInstruc"></string>
+             <unicode value="&lt;p&gt;If left unchecked a small number of spelling and capitalization errors will be accepted. If checked only an exact match in spelling and capitalization will be accepted.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;For example:&lt;/strong&gt; If the correct answer is &lt;code&gt;Elephant&lt;/code&gt; then both &lt;code&gt;elephant&lt;/code&gt; and &lt;code&gt;Eliphant&lt;/code&gt; will be judged &lt;em&gt;&quot;close enough&quot;&lt;/em&gt; by the algorithm as it only has one letter wrong, even if &quot;Check Capitalization&quot; is on.&lt;/p&gt;&lt;p&gt;If capitalization checking is off in the above example, the lowercase &lt;code&gt;e&lt;/code&gt; will not be considered a mistake and &lt;code&gt;eliphant&lt;/code&gt; will also be accepted.&lt;/p&gt;&lt;p&gt;If both &quot;Strict Marking&quot; and &quot;Check Capitalization&quot; are set, the only correct answer is &quot;Elephant&quot;. If only &quot;Strict Marking&quot; is checked and &quot;Check Capitalization&quot; is not, &quot;elephant&quot; will also be accepted.&lt;/p&gt;"></unicode>
+             <string role="key" value="anchor_names"></string>
+             <list></list>
+             <string role="key" value="anchors_linked_from_fields"></string>
+             <dictionary></dictionary>
+             <string role="key" value="checkCaps"></string>
+             <bool value="0"></bool>
+             <string role="key" value="content_w_resourcePaths"></string>
+             <unicode content="true" value="&lt;p&gt;&lt;google-sheets-html-origin&gt;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;
+&lt;/google-sheets-html-origin&gt;&lt;/p&gt;
+&lt;table xmlns=&quot;http://www.w3.org/1999/xhtml&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;79&quot; /&gt;&lt;col width=&quot;120&quot; /&gt;&lt;col width=&quot;234&quot; /&gt;&lt;col width=&quot;190&quot; /&gt;&lt;col width=&quot;80&quot; /&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2s=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;H2S&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cido=&quot;None&quot; sulfh=&quot;&quot; drico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;ácido sulfhídrico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tetracloruro=&quot;None&quot; de=&quot;None&quot; carbono=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;tetracloruro de carbono&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ccl4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;CCl4&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ca=&quot;&quot; oh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Ca(OH)2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dihidr=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; calcio=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;dihidróxido de Calcio&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; titanio=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido de titanio(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ti2=&quot;&quot; o2=&quot;&quot; 3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;Ti2(O2)3&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; carbonoso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;anhídrido carbonoso&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; de=&quot;None&quot; bario=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro de bario&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bah2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;BaH2&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; di=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; carbono=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;dióxido de carbono&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cido=&quot;None&quot; selenh=&quot;&quot; drico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;ácido selenhídrico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2se=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;H2Se&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; carb=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;anhídrido carbónico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; hiposelenioso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido hiposelenioso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;SeO&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cuh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CuH&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; cuproso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;hidruro cuproso&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; cromoso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido cromoso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cro=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;CrO&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; fecl2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;FeCl2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dicloruro=&quot;None&quot; de=&quot;None&quot; hierro=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;dicloruro de hierro&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bromuro=&quot;None&quot; cuproso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;bromuro cuproso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cubr=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;CuBr&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; feo=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;FeO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; hierro=&quot;&quot; ii=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;óxido de hierro(II)&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; sosa=&quot;None&quot; ca=&quot;&quot; stica=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;sosa caústica&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; naoh=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;NaOH&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2o2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;H2O2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nombre=&quot;None&quot; com=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; agua=&quot;None&quot; oxigenada=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;agua oxigenada&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; niqu=&quot;&quot; lico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido niquélico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ni2=&quot;&quot; o2=&quot;&quot; 3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;Ni2(O2)3&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hgo=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;HgO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; mercurio=&quot;&quot; ii=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;óxido de mercurio(II)&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; br=&quot;&quot; mico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido brómico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; br2o5=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;Br2O5&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; i2o5=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;I2O5&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; i=&quot;&quot; dico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;anhídrido iódico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; bario=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido de bario&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bao2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;BaO2&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; if7=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;IF7&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; heptafluoruro=&quot;None&quot; de=&quot;None&quot; iodo=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;heptafluoruro de iodo&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; cromo=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido de cromo(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cr2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;Cr2O3&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ki=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;KI&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ioduro=&quot;None&quot; pot=&quot;&quot; sico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;ioduro potásico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; sulfuroso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido sulfuroso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; so2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;SO2&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; koh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;KOH&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; pot=&quot;&quot; sico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;hidróxido potásico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; salfum=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;salfumán&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hcl=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;HCl&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; li2o2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Li2O2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; l=&quot;&quot; tico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;peróxido lítico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; arg=&quot;&quot; ntico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidróxido argéntico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; agoh=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;AgOH&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; mn2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Mn2O3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tri=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; dimanganeso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;trióxido de dimanganeso&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; niqueloso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido niqueloso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nio2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;NiO2&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; mn2o7=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Mn2O7&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; permang=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;anhídrido permangánico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; pl=&quot;&quot; mbico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro plúmbico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pbh4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;PbH4&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; o7br2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;O7Br2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dibromuro=&quot;None&quot; de=&quot;None&quot; heptax=&quot;&quot; geno=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;dibromuro de heptaxígeno&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; est=&quot;&quot; nnico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro estánnico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; snh4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;SnH4&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ph3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;PH3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; sustituci=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;SUSTITUCIÓN&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; fosfano=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;fosfano&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; nitr=&quot;&quot; geno=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido de nitrógeno(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;N2O3&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pt=&quot;&quot; oh=&quot;&quot; 4=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Pt(OH)4&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; platino=&quot;&quot; iv=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;hidróxido de Platino(IV)&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; telururo=&quot;None&quot; de=&quot;None&quot; hidr=&quot;&quot; geno=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;telururo de hidrógeno&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2te=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;H2Te&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;SeO3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; sel=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;anhídrido selénico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cloruro=&quot;None&quot; de=&quot;None&quot; aluminio=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;cloruro de aluminio&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; alcl3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;AlCl3&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;SeO3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; selenio=&quot;&quot; vi=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;óxido de selenio(VI)&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tri=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; selenio=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;trióxido de selenio&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;SeO3&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tio2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;TiO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; tit=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;&lt;u&gt;óxido titánico&lt;/u&gt;&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; azano=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;azano&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nh3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;&lt;u&gt;NH3&lt;/u&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;"></unicode>
+             <string role="key" value="exe.engine.field.ClozeField.persistenceVersion"></string>
+             <int value="3"></int>
+             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+             <int value="4"></int>
+             <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+             <int value="2"></int>
+             <string role="key" value="images"></string>
+             <instance class="exe.engine.galleryidevice.GalleryImages">
+              <dictionary>
+               <string role="key" value=".listitems"></string>
+               <list></list>
+               <string role="key" value="idevice"></string>
+               <reference key="4"></reference>
+              </dictionary>
+             </instance>
+             <string role="key" value="instantMarking"></string>
+             <bool value="0"></bool>
+             <string role="key" value="intlinks_to_anchors"></string>
+             <dictionary></dictionary>
+             <string role="key" value="nextImageId"></string>
+             <int value="0"></int>
+             <string role="key" value="parentNode"></string>
+             <none></none>
+             <string role="key" value="parts"></string>
+             <list>
+              <tuple>
+               <unicode value="&lt;p&gt;&lt;google-sheets-html-origin&gt;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--&gt;&lt;/style&gt;
+&lt;/google-sheets-html-origin&gt;&lt;/p&gt;
+&lt;table xmlns=&quot;http://www.w3.org/1999/xhtml&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;79&quot;&gt;&lt;/col&gt;&lt;col width=&quot;120&quot;&gt;&lt;/col&gt;&lt;col width=&quot;234&quot;&gt;&lt;/col&gt;&lt;col width=&quot;190&quot;&gt;&lt;/col&gt;&lt;col width=&quot;80&quot;&gt;&lt;/col&gt;&lt;/colgroup&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2s=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;H2S&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cido=&quot;None&quot; sulfh=&quot;&quot; drico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="ácido sulfhídrico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tetracloruro=&quot;None&quot; de=&quot;None&quot; carbono=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;tetracloruro de carbono&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ccl4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="CCl4"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ca=&quot;&quot; oh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Ca(OH)2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dihidr=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; calcio=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="dihidróxido de Calcio"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; titanio=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido de titanio(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ti2=&quot;&quot; o2=&quot;&quot; 3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="Ti2(O2)3"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; carbonoso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="anhídrido carbonoso"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; de=&quot;None&quot; bario=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro de bario&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bah2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="BaH2"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; di=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; carbono=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="dióxido de carbono"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cido=&quot;None&quot; selenh=&quot;&quot; drico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;ácido selenhídrico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2se=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="H2Se"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; co2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; carb=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="anhídrido carbónico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; hiposelenioso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido hiposelenioso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="SeO"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cuh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;CuH&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; cuproso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="hidruro cuproso"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; cromoso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido cromoso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cro=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="CrO"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; fecl2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;FeCl2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dicloruro=&quot;None&quot; de=&quot;None&quot; hierro=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="dicloruro de hierro"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bromuro=&quot;None&quot; cuproso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;bromuro cuproso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cubr=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="CuBr"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; feo=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;FeO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; hierro=&quot;&quot; ii=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="óxido de hierro(II)"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; sosa=&quot;None&quot; ca=&quot;&quot; stica=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;sosa caústica&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; naoh=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="NaOH"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2o2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;H2O2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nombre=&quot;None&quot; com=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NOMBRE COMÚN&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; agua=&quot;None&quot; oxigenada=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="agua oxigenada"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; niqu=&quot;&quot; lico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido niquélico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ni2=&quot;&quot; o2=&quot;&quot; 3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="Ni2(O2)3"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hgo=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;HgO&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; mercurio=&quot;&quot; ii=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="óxido de mercurio(II)"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; br=&quot;&quot; mico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido brómico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; br2o5=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="Br2O5"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; i2o5=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;I2O5&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; i=&quot;&quot; dico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="anhídrido iódico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; bario=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido de bario&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; bao2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="BaO2"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; if7=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;IF7&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; heptafluoruro=&quot;None&quot; de=&quot;None&quot; iodo=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="heptafluoruro de iodo"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; cromo=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido de cromo(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cr2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="Cr2O3"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ki=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;KI&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ioduro=&quot;None&quot; pot=&quot;&quot; sico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="ioduro potásico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; sulfuroso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;anhídrido sulfuroso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; so2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="SO2"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; koh=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;KOH&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; pot=&quot;&quot; sico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="hidróxido potásico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; salfum=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;salfumán&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hcl=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="HCl"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; li2o2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Li2O2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; l=&quot;&quot; tico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="peróxido lítico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; arg=&quot;&quot; ntico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidróxido argéntico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; agoh=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="AgOH"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; mn2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Mn2O3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tri=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; dimanganeso=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="trióxido de dimanganeso"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; per=&quot;&quot; xido=&quot;None&quot; niqueloso=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;peróxido niqueloso&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nio2=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="NiO2"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; mn2o7=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Mn2O7&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; permang=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="anhídrido permangánico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; pl=&quot;&quot; mbico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro plúmbico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pbh4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="PbH4"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; o7br2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;O7Br2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pref=&quot;&quot; none=&quot;&quot; mult=&quot;&quot; style=&quot;width: 120px;&quot;&gt;PREF. MULT.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; dibromuro=&quot;None&quot; de=&quot;None&quot; heptax=&quot;&quot; geno=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="dibromuro de heptaxígeno"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidruro=&quot;None&quot; est=&quot;&quot; nnico=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;hidruro estánnico&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; snh4=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="SnH4"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; ph3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;PH3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; sustituci=&quot;&quot; n=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;SUSTITUCIÓN&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; fosfano=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="fosfano"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; nitr=&quot;&quot; geno=&quot;&quot; iii=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;óxido de nitrógeno(III)&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n2o3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="N2O3"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; pt=&quot;&quot; oh=&quot;&quot; 4=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;Pt(OH)4&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; hidr=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; platino=&quot;&quot; iv=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="hidróxido de Platino(IV)"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; telururo=&quot;None&quot; de=&quot;None&quot; hidr=&quot;&quot; geno=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;telururo de hidrógeno&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; h2te=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="H2Te"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;SeO3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; anh=&quot;&quot; drido=&quot;None&quot; sel=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="anhídrido selénico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; cloruro=&quot;None&quot; de=&quot;None&quot; aluminio=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;cloruro de aluminio&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; alcl3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="AlCl3"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;SeO3&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; n=&quot;&quot; m=&quot;&quot; none=&quot;&quot; oxid=&quot;&quot; style=&quot;width: 120px;&quot;&gt;NÚM. OXID.&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; selenio=&quot;&quot; vi=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="óxido de selenio(VI)"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tri=&quot;&quot; xido=&quot;None&quot; de=&quot;None&quot; selenio=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;trióxido de selenio&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; seo3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="SeO3"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tio2=&quot;&quot; none=&quot;&quot; style=&quot;width: 79px;&quot;&gt;TiO2&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; tradicional=&quot;&quot; none=&quot;&quot; style=&quot;width: 120px;&quot;&gt;TRADICIONAL&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; xido=&quot;None&quot; tit=&quot;&quot; nico=&quot;&quot; none=&quot;&quot; style=&quot;width: 234px;&quot;&gt;"></unicode>
+               <unicode value="óxido titánico"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; azano=&quot;&quot; none=&quot;&quot; style=&quot;width: 190px;&quot;&gt;azano&lt;/td&gt;
+&lt;td data-sheets-value=&quot;{&quot; 1=&quot;&quot; :2=&quot;&quot; 2=&quot;&quot; :=&quot;&quot; nh3=&quot;&quot; none=&quot;&quot; style=&quot;width: 80px;&quot;&gt;"></unicode>
+               <unicode value="NH3"></unicode>
+              </tuple>
+              <tuple>
+               <unicode value="&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;/p&gt;"></unicode>
+               <string value=""></string>
+              </tuple>
+             </list>
+             <string role="key" value="rawContent"></string>
+             <string value=""></string>
+             <string role="key" value="strictMarking"></string>
+             <bool value="0"></bool>
+            </dictionary>
+           </instance>
+           <string role="key" value="_purpose"></string>
+           <unicode value="&lt;p&gt;Cloze exercises are texts or sentences where students must fill in missing words. They are often used for the following purposes:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;To check knowledge of core course concepts (this could be a pre-check, formative exercise, or summative check).&lt;/li&gt;&lt;li&gt;To check reading comprehension.&lt;/li&gt;&lt;li&gt;To check vocabulary knowledge.&lt;/li&gt;&lt;li&gt;To check word formation and/or grammatical competence. &lt;/li&gt;&lt;/ol&gt;"></unicode>
+           <string role="key" value="_tip"></string>
+           <unicode value="&lt;dl&gt;  &lt;dt&gt;If your goal is to test understanding of core concepts or reading comprehension  &lt;/dt&gt;  &lt;dd&gt;    &lt;p&gt;  Write a summary of the concept or reading long  enough to adequately test the target's knowledge, but short enough not to induce fatigue. Less than one typed page is probably adequate, but probably considerably less for young students or beginners.    &lt;/p&gt;    &lt;p&gt;Select words in the text thatare key to understanding the concepts. Thesewill probably be verbs, nouns, and key adverbs.Choose alternatives with one clear answer.    &lt;/p&gt;  &lt;/dd&gt;  &lt;dt&gt;If your goal is to test vocabulary knowledge  &lt;/dt&gt;  &lt;dd&gt;&lt;p&gt;Write a text using the target vocabulary. This text should be coherent and cohesive, and be of an appropriate length. Highlight the target words in the text. Choose alternatives with one clear answer.&lt;/p&gt;  &lt;/dd&gt;  &lt;dt&gt;If your goal is to test word formation/grammar:  &lt;/dt&gt;  &lt;dd&gt;  &lt;p&gt;Write a text using the target forms. This text should be coherent and cohesive, and be of an appropriate length. Remember that the goal is not vocabulary knowledge, so the core meanings of the stem words should be well known to the students.  &lt;/p&gt;  &lt;p&gt;Highlight the target words in the text. Provide alternatives with the same word stem, but different affixes. It is a good idea to get a colleague to test the test/exercise to make sure there are no surprises!  &lt;/p&gt;  &lt;/dd&gt;&lt;/dl&gt;"></unicode>
+           <string role="key" value="edit"></string>
+           <bool value="0"></bool>
+           <string role="key" value="emphasis"></string>
+           <int value="1"></int>
+           <string role="key" value="exe.engine.clozeidevice.ClozeIdevice.persistenceVersion"></string>
+           <int value="7"></int>
+           <string role="key" value="feedback"></string>
+           <instance class="exe.engine.field.TextAreaField" reference="5">
+            <dictionary>
+             <string role="key" value="_id"></string>
+             <int value="106"></int>
+             <string role="key" value="_idevice"></string>
+             <reference key="2"></reference>
+             <string role="key" value="_instruc"></string>
+             <unicode value="Enter any feedback you wish to provide the learner with-in the feedback field. This field can be left blank."></unicode>
+             <string role="key" value="_name"></string>
+             <unicode value="Feedback"></unicode>
+             <string role="key" value="anchor_names"></string>
+             <list></list>
+             <string role="key" value="anchors_linked_from_fields"></string>
+             <dictionary></dictionary>
+             <string role="key" value="content_w_resourcePaths"></string>
+             <unicode content="true" value=""></unicode>
+             <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+             <int value="4"></int>
+             <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+             <int value="2"></int>
+             <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+             <int value="3"></int>
+             <string role="key" value="htmlTag"></string>
+             <string value="section"></string>
+             <string role="key" value="images"></string>
+             <instance class="exe.engine.galleryidevice.GalleryImages">
+              <dictionary>
+               <string role="key" value=".listitems"></string>
+               <list></list>
+               <string role="key" value="idevice"></string>
+               <reference key="5"></reference>
+              </dictionary>
+             </instance>
+             <string role="key" value="intlinks_to_anchors"></string>
+             <dictionary></dictionary>
+             <string role="key" value="nextImageId"></string>
+             <int value="0"></int>
+             <string role="key" value="parentNode"></string>
+             <none></none>
+            </dictionary>
+           </instance>
+           <string role="key" value="icon"></string>
+           <unicode value="question"></unicode>
+           <string role="key" value="id"></string>
+           <unicode value="12"></unicode>
+           <string role="key" value="isCloze"></string>
+           <bool value="1"></bool>
+           <string role="key" value="lastIdevice"></string>
+           <bool value="0"></bool>
+           <string role="key" value="originalicon"></string>
+           <unicode value="question"></unicode>
+           <string role="key" value="parentNode"></string>
+           <reference key="6"></reference>
+           <string role="key" value="systemResources"></string>
+           <list>
+            <string value="common.js"></string>
+           </list>
+           <string role="key" value="undo"></string>
+           <bool value="1"></bool>
+           <string role="key" value="userResources"></string>
+           <list></list>
+           <string role="key" value="version"></string>
+           <int value="0"></int>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="7">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="PRUEBA EVALUATIVA MODELO 3 (HIDRUROS, ÓXIDOS, PERÓXIDOS, SALES, HIDRÓXIDOS)"></unicode>
+           <string role="key" value="instructionsForLearners"></string>
+           <instance class="exe.engine.field.TextAreaField" reference="8">
+            <dictionary>
+             <string role="key" value="_id"></string>
+             <int value="104"></int>
+             <string role="key" value="_idevice"></string>
+             <reference key="7"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Provide instruction on how the cloze activity should be 
 completed. Default text will be entered if there are no changes to this field.
@@ -160,7 +1044,7 @@ completed. Default text will be entered if there are no changes to this field.
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="3"></reference>
+               <reference key="8"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -168,13 +1052,13 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
            <unicode value="University of Auckland"></unicode>
            <string role="key" value="_content"></string>
-           <instance class="exe.engine.field.ClozeField" reference="5">
+           <instance class="exe.engine.field.ClozeField" reference="9">
             <dictionary>
              <string role="key" value="_checkCapsInstruc"></string>
              <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
@@ -347,7 +1231,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="2"></reference>
+             <reference key="7"></reference>
              <string role="key" value="_instantMarkingInstruc"></string>
              <unicode value="&lt;p&gt;If this option is set, each word will be marked as the 
 learner types it rather than all the words being marked the end of the 
@@ -545,7 +1429,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="5"></reference>
+               <reference key="9"></reference>
               </dictionary>
              </instance>
              <string role="key" value="instantMarking"></string>
@@ -555,7 +1439,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
              <string role="key" value="parts"></string>
              <list>
               <tuple>
@@ -928,12 +1812,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="exe.engine.clozeidevice.ClozeIdevice.persistenceVersion"></string>
            <int value="7"></int>
            <string role="key" value="feedback"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="6">
+           <instance class="exe.engine.field.TextAreaField" reference="10">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="106"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="2"></reference>
+             <reference key="7"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Enter any feedback you wish to provide the learner with-in the feedback field. This field can be left blank."></unicode>
              <string role="key" value="_name"></string>
@@ -958,7 +1842,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="6"></reference>
+               <reference key="10"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -966,7 +1850,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="icon"></string>
@@ -980,7 +1864,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="originalicon"></string>
            <unicode value="question"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="4"></reference>
+           <reference key="6"></reference>
            <string role="key" value="systemResources"></string>
            <list>
             <string value="common.js"></string>
@@ -993,17 +1877,17 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="7">
+         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="11">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="PRUEBA EVALUATIVA MODELO 2 (HIDRUROS, ÓXIDOS, PERÓXIDOS, SALES, HIDRÓXIDOS)"></unicode>
            <string role="key" value="instructionsForLearners"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="8">
+           <instance class="exe.engine.field.TextAreaField" reference="12">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="104"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="7"></reference>
+             <reference key="11"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Provide instruction on how the cloze activity should be 
 completed. Default text will be entered if there are no changes to this field.
@@ -1032,7 +1916,7 @@ completed. Default text will be entered if there are no changes to this field.
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="8"></reference>
+               <reference key="12"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -1040,13 +1924,13 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
            <unicode value="University of Auckland"></unicode>
            <string role="key" value="_content"></string>
-           <instance class="exe.engine.field.ClozeField" reference="9">
+           <instance class="exe.engine.field.ClozeField" reference="13">
             <dictionary>
              <string role="key" value="_checkCapsInstruc"></string>
              <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
@@ -1219,7 +2103,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="7"></reference>
+             <reference key="11"></reference>
              <string role="key" value="_instantMarkingInstruc"></string>
              <unicode value="&lt;p&gt;If this option is set, each word will be marked as the 
 learner types it rather than all the words being marked the end of the 
@@ -1417,7 +2301,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="9"></reference>
+               <reference key="13"></reference>
               </dictionary>
              </instance>
              <string role="key" value="instantMarking"></string>
@@ -1427,7 +2311,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
              <string role="key" value="parts"></string>
              <list>
               <tuple>
@@ -1800,12 +2684,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="exe.engine.clozeidevice.ClozeIdevice.persistenceVersion"></string>
            <int value="7"></int>
            <string role="key" value="feedback"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="10">
+           <instance class="exe.engine.field.TextAreaField" reference="14">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="106"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="7"></reference>
+             <reference key="11"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Enter any feedback you wish to provide the learner with-in the feedback field. This field can be left blank."></unicode>
              <string role="key" value="_name"></string>
@@ -1830,7 +2714,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="10"></reference>
+               <reference key="14"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -1838,7 +2722,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="icon"></string>
@@ -1852,7 +2736,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="originalicon"></string>
            <unicode value="question"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="4"></reference>
+           <reference key="6"></reference>
            <string role="key" value="systemResources"></string>
            <list>
             <string value="common.js"></string>
@@ -1865,17 +2749,17 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="11">
+         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="15">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="PRUEBA EVALUATIVA MODELO 1 (HIDRUROS, ÓXIDOS, PERÓXIDOS, SALES, HIDRÓXIDOS)"></unicode>
            <string role="key" value="instructionsForLearners"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="12">
+           <instance class="exe.engine.field.TextAreaField" reference="16">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="104"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="11"></reference>
+             <reference key="15"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Provide instruction on how the cloze activity should be 
 completed. Default text will be entered if there are no changes to this field.
@@ -1904,7 +2788,7 @@ completed. Default text will be entered if there are no changes to this field.
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="12"></reference>
+               <reference key="16"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -1912,13 +2796,13 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
            <unicode value="University of Auckland"></unicode>
            <string role="key" value="_content"></string>
-           <instance class="exe.engine.field.ClozeField" reference="13">
+           <instance class="exe.engine.field.ClozeField" reference="17">
             <dictionary>
              <string role="key" value="_checkCapsInstruc"></string>
              <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
@@ -2091,7 +2975,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="11"></reference>
+             <reference key="15"></reference>
              <string role="key" value="_instantMarkingInstruc"></string>
              <unicode value="&lt;p&gt;If this option is set, each word will be marked as the 
 learner types it rather than all the words being marked the end of the 
@@ -2289,7 +3173,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="13"></reference>
+               <reference key="17"></reference>
               </dictionary>
              </instance>
              <string role="key" value="instantMarking"></string>
@@ -2299,7 +3183,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
              <string role="key" value="parts"></string>
              <list>
               <tuple>
@@ -2672,12 +3556,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="exe.engine.clozeidevice.ClozeIdevice.persistenceVersion"></string>
            <int value="7"></int>
            <string role="key" value="feedback"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="14">
+           <instance class="exe.engine.field.TextAreaField" reference="18">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="106"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="11"></reference>
+             <reference key="15"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Enter any feedback you wish to provide the learner with-in the feedback field. This field can be left blank."></unicode>
              <string role="key" value="_name"></string>
@@ -2702,7 +3586,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="14"></reference>
+               <reference key="18"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -2710,7 +3594,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="4"></reference>
+             <reference key="6"></reference>
             </dictionary>
            </instance>
            <string role="key" value="icon"></string>
@@ -2724,7 +3608,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="originalicon"></string>
            <unicode value="question"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="4"></reference>
+           <reference key="6"></reference>
            <string role="key" value="systemResources"></string>
            <list>
             <string value="common.js"></string>
@@ -2751,30 +3635,30 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:REPASO%20FORMULACI%C3%93N:MODELOS%20PRUEBAS"></string>
         <string role="key" value="parent"></string>
-        <reference key="15"></reference>
+        <reference key="19"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
         <list></list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="18">
+      <instance class="exe.engine.node.Node" reference="22">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="MODELOS EXÁMENES"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="16">
+         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="20">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="modelo 1 de examen"></unicode>
            <string role="key" value="instructionsForLearners"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="17">
+           <instance class="exe.engine.field.TextAreaField" reference="21">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="104"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="16"></reference>
+             <reference key="20"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Provide instruction on how the cloze activity should be 
 completed. Default text will be entered if there are no changes to this field.
@@ -2803,7 +3687,7 @@ completed. Default text will be entered if there are no changes to this field.
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="17"></reference>
+               <reference key="21"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -2811,13 +3695,13 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="18"></reference>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
            <unicode value="University of Auckland"></unicode>
            <string role="key" value="_content"></string>
-           <instance class="exe.engine.field.ClozeField" reference="19">
+           <instance class="exe.engine.field.ClozeField" reference="23">
             <dictionary>
              <string role="key" value="_checkCapsInstruc"></string>
              <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
@@ -3067,7 +3951,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="16"></reference>
+             <reference key="20"></reference>
              <string role="key" value="_instantMarkingInstruc"></string>
              <unicode value="&lt;p&gt;If this option is set, each word will be marked as the 
 learner types it rather than all the words being marked the end of the 
@@ -3342,7 +4226,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="19"></reference>
+               <reference key="23"></reference>
               </dictionary>
              </instance>
              <string role="key" value="instantMarking"></string>
@@ -3352,7 +4236,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="18"></reference>
+             <reference key="22"></reference>
              <string role="key" value="parts"></string>
              <list>
               <tuple>
@@ -3890,12 +4774,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="exe.engine.clozeidevice.ClozeIdevice.persistenceVersion"></string>
            <int value="7"></int>
            <string role="key" value="feedback"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="20">
+           <instance class="exe.engine.field.TextAreaField" reference="24">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="106"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="16"></reference>
+             <reference key="20"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Enter any feedback you wish to provide the learner with-in the feedback field. This field can be left blank."></unicode>
              <string role="key" value="_name"></string>
@@ -3920,7 +4804,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="20"></reference>
+               <reference key="24"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -3928,7 +4812,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="18"></reference>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="icon"></string>
@@ -3942,7 +4826,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="originalicon"></string>
            <unicode value="question"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="18"></reference>
+           <reference key="22"></reference>
            <string role="key" value="systemResources"></string>
            <list>
             <string value="common.js"></string>
@@ -3955,17 +4839,17 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="21">
+         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="25">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="modelo 2 de examen"></unicode>
            <string role="key" value="instructionsForLearners"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="22">
+           <instance class="exe.engine.field.TextAreaField" reference="26">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="104"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="21"></reference>
+             <reference key="25"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Provide instruction on how the cloze activity should be 
 completed. Default text will be entered if there are no changes to this field.
@@ -3994,7 +4878,7 @@ completed. Default text will be entered if there are no changes to this field.
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="22"></reference>
+               <reference key="26"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -4002,13 +4886,13 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="18"></reference>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
            <unicode value="University of Auckland"></unicode>
            <string role="key" value="_content"></string>
-           <instance class="exe.engine.field.ClozeField" reference="23">
+           <instance class="exe.engine.field.ClozeField" reference="27">
             <dictionary>
              <string role="key" value="_checkCapsInstruc"></string>
              <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
@@ -4258,7 +5142,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="21"></reference>
+             <reference key="25"></reference>
              <string role="key" value="_instantMarkingInstruc"></string>
              <unicode value="&lt;p&gt;If this option is set, each word will be marked as the 
 learner types it rather than all the words being marked the end of the 
@@ -4533,7 +5417,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="23"></reference>
+               <reference key="27"></reference>
               </dictionary>
              </instance>
              <string role="key" value="instantMarking"></string>
@@ -4543,7 +5427,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="18"></reference>
+             <reference key="22"></reference>
              <string role="key" value="parts"></string>
              <list>
               <tuple>
@@ -5081,12 +5965,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="exe.engine.clozeidevice.ClozeIdevice.persistenceVersion"></string>
            <int value="7"></int>
            <string role="key" value="feedback"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="24">
+           <instance class="exe.engine.field.TextAreaField" reference="28">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="106"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="21"></reference>
+             <reference key="25"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Enter any feedback you wish to provide the learner with-in the feedback field. This field can be left blank."></unicode>
              <string role="key" value="_name"></string>
@@ -5111,7 +5995,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="24"></reference>
+               <reference key="28"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -5119,7 +6003,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <reference key="18"></reference>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="icon"></string>
@@ -5133,7 +6017,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="originalicon"></string>
            <unicode value="question"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="18"></reference>
+           <reference key="22"></reference>
            <string role="key" value="systemResources"></string>
            <list>
             <string value="common.js"></string>
@@ -5146,17 +6030,17 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <int value="0"></int>
           </dictionary>
          </instance>
-         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="25">
+         <instance class="exe.engine.clozeidevice.ClozeIdevice" reference="29">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="modelo 3 de examen"></unicode>
            <string role="key" value="instructionsForLearners"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="26">
+           <instance class="exe.engine.field.TextAreaField" reference="30">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="104"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="25"></reference>
+             <reference key="29"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Provide instruction on how the cloze activity should be 
 completed. Default text will be entered if there are no changes to this field.
@@ -5185,7 +6069,7 @@ completed. Default text will be entered if there are no changes to this field.
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="26"></reference>
+               <reference key="30"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -5193,13 +6077,13 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="_author"></string>
            <unicode value="University of Auckland"></unicode>
            <string role="key" value="_content"></string>
-           <instance class="exe.engine.field.ClozeField" reference="27">
+           <instance class="exe.engine.field.ClozeField" reference="31">
             <dictionary>
              <string role="key" value="_checkCapsInstruc"></string>
              <unicode value="&lt;p&gt;If this option is checked, submitted answers with different capitalization will be marked as incorrect.&lt;/p&gt;"></unicode>
@@ -5449,7 +6333,7 @@ completed. Default text will be entered if there are no changes to this field.
              <string role="key" value="_id"></string>
              <int value="105"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="25"></reference>
+             <reference key="29"></reference>
              <string role="key" value="_instantMarkingInstruc"></string>
              <unicode value="&lt;p&gt;If this option is set, each word will be marked as the 
 learner types it rather than all the words being marked the end of the 
@@ -5724,7 +6608,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="27"></reference>
+               <reference key="31"></reference>
               </dictionary>
              </instance>
              <string role="key" value="instantMarking"></string>
@@ -5734,7 +6618,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="22"></reference>
              <string role="key" value="parts"></string>
              <list>
               <tuple>
@@ -6272,12 +7156,12 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="exe.engine.clozeidevice.ClozeIdevice.persistenceVersion"></string>
            <int value="7"></int>
            <string role="key" value="feedback"></string>
-           <instance class="exe.engine.field.TextAreaField" reference="28">
+           <instance class="exe.engine.field.TextAreaField" reference="32">
             <dictionary>
              <string role="key" value="_id"></string>
              <int value="106"></int>
              <string role="key" value="_idevice"></string>
-             <reference key="25"></reference>
+             <reference key="29"></reference>
              <string role="key" value="_instruc"></string>
              <unicode value="Enter any feedback you wish to provide the learner with-in the feedback field. This field can be left blank."></unicode>
              <string role="key" value="_name"></string>
@@ -6302,7 +7186,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
                <string role="key" value=".listitems"></string>
                <list></list>
                <string role="key" value="idevice"></string>
-               <reference key="28"></reference>
+               <reference key="32"></reference>
               </dictionary>
              </instance>
              <string role="key" value="intlinks_to_anchors"></string>
@@ -6310,7 +7194,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
              <string role="key" value="nextImageId"></string>
              <int value="0"></int>
              <string role="key" value="parentNode"></string>
-             <none></none>
+             <reference key="22"></reference>
             </dictionary>
            </instance>
            <string role="key" value="icon"></string>
@@ -6324,7 +7208,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="originalicon"></string>
            <unicode value="question"></unicode>
            <string role="key" value="parentNode"></string>
-           <reference key="18"></reference>
+           <reference key="22"></reference>
            <string role="key" value="systemResources"></string>
            <list>
             <string value="common.js"></string>
@@ -6351,7 +7235,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
         <string role="key" value="last_full_node_path"></string>
         <string value="exe-node:REPASO%20FORMULACI%C3%93N:MODELOS%20EX%C3%81MENES"></string>
         <string role="key" value="parent"></string>
-        <reference key="15"></reference>
+        <reference key="19"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
@@ -6362,9 +7246,9 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
     </dictionary>
    </instance>
    <unicode role="key" value="1"></unicode>
-   <reference key="18"></reference>
+   <reference key="22"></reference>
    <unicode role="key" value="3"></unicode>
-   <reference key="4"></reference>
+   <reference key="6"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -6377,7 +7261,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="18"></reference>
+  <reference key="6"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -6574,7 +7458,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="29">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="33">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -6613,7 +7497,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="30">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="34">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -6628,7 +7512,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="31">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="35">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -6678,10 +7562,10 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="29"></reference>
+         <reference key="33"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="30"></reference>
+          <reference key="34"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -6689,7 +7573,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="31"></reference>
+           <reference key="35"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -6941,7 +7825,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="32">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="36">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -6980,7 +7864,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="33">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="37">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -6995,7 +7879,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="34">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="38">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -7045,10 +7929,10 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="32"></reference>
+         <reference key="36"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="33"></reference>
+          <reference key="37"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -7056,7 +7940,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="34"></reference>
+           <reference key="38"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -7232,7 +8116,7 @@ click on the Hide/Show Word button below.&lt;/p&gt;&lt;p&gt;More than one possib
   <string role="key" value="resources"></string>
   <dictionary></dictionary>
   <string role="key" value="root"></string>
-  <reference key="15"></reference>
+  <reference key="19"></reference>
   <string role="key" value="scolinks"></string>
   <bool value="0"></bool>
   <string role="key" value="scowsinglepage"></string>
