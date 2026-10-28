@@ -1,0 +1,13 @@
+plugins { id 'com.android.application' }
+android {
+  namespace 'com.romi.verbos'
+  compileSdk 35
+  defaultConfig {
+    applicationId 'com.romi.verbos.estudio'
+    minSdk 23
+    targetSdk 28
+    versionCode 3
+    versionName '1.2'
+  }
+  compileOptions { sourceCompatibility JavaVersion.VERSION_17; targetCompatibility JavaVersion.VERSION_17 }
+}
