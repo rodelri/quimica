@@ -13,8 +13,14 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
-      - uses: android-actions/setup-android@v3
-      - run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+      - name: Check existing Android SDK
+        run: |
+          echo "ANDROID_HOME=$ANDROID_HOME"
+          ls "$ANDROID_HOME/platforms" || true
+          ls "$ANDROID_HOME/build-tools" || true
+          SDKMANAGER=$(find "$ANDROID_HOME/cmdline-tools" -type f -name sdkmanager | head -1)
+          if [ ! -d "$ANDROID_HOME/platforms/android-35" ]; then "$SDKMANAGER" "platforms;android-35"; fi
+          if [ ! -d "$ANDROID_HOME/build-tools/35.0.0" ]; then "$SDKMANAGER" "build-tools;35.0.0"; fi
       - uses: gradle/actions/setup-gradle@v4
         with:
           gradle-version: '8.10.2'
